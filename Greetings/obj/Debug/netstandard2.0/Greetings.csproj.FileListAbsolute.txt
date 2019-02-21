@@ -1,0 +1,10 @@
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\bin\Debug\netstandard2.0\Greetings.deps.json
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\bin\Debug\netstandard2.0\Greetings.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\bin\Debug\netstandard2.0\Greetings.pdb
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\Greetings.AssemblyInfo.cs
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\Greetings.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\Greetings.pdb
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter02\Greetings\Greetings\Greetings\obj\Debug\netstandard2.0\Greetings.csprojAssemblyReference.cache
